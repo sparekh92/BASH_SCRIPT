@@ -1,0 +1,6 @@
+# This script is to Parse two output fils taken over time -- compare for addition/remove or changed
+
+Tasks
+1.     Parse the configuration output in Pre.txt, and Post.txt.
+2.     Print out what routes were added, removed and changed.
+3.     Summarise how many types of each route there are (BGP, OSPF, Connected)
